@@ -2,20 +2,15 @@
 
 This is the first project done to familiarize with STM development environment. 
 
-Board used:
-
 Development kit:
 1. STM32CubeMX
 2. STM32CubeIDE
 
-###### Setting up the board
+###### Instruction
 
 * A new project is created using STM32CubeMX.
 * Board is selected from the board selector in CubeMX so that it can pre-populate all pins that are connected on the board.
-
-    **image**
-
-* The LED that will be used for this project is determined (*pin*).
+* The LED that will be used for this project is determined.
 * The LED name is changed to be *pin_name* for easier identification.
 * Code is generated after all configuration is done. 
 * In the main loop, HAL functions are called to make the desired LED to blink
