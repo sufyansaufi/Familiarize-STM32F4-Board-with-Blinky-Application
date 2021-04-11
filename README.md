@@ -2,6 +2,12 @@
 
 This is the first project done to familiarize with STM development environment. 
 
+**Youtube Video**
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6JYLMo7ZYY4
+" target="_blank"><img src="http://img.youtube.com/vi/6JYLMo7ZYY4/0.jpg" 
+alt="Project Milestone 1" width="240" height="180" border="10" /></a>
+
 Development kit:
 1. STM32CubeMX
 2. STM32CubeIDE
