@@ -8,11 +8,11 @@ This is the first project done to familiarize with STM development environment.
 " target="_blank"><img src="http://img.youtube.com/vi/6JYLMo7ZYY4/0.jpg" 
 alt="Project Milestone 1" width="240" height="180" border="10" /></a>
 
-Development kit:
+**Development kit:**
 1. STM32CubeMX
 2. STM32CubeIDE
 
-###### Instruction
+**Instruction**
 
 * A new project is created using STM32CubeMX.
 * Board is selected from the board selector in CubeMX so that it can pre-populate all pins that are connected on the board.
